@@ -1,7 +1,10 @@
-import type { NextConfig } from "next";
+import MillionCompiler from "@million/lint";
 
-const nextConfig: NextConfig = {
-  /* config options here */
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  reactStrictMode: true,
 };
 
-export default nextConfig;
+export default MillionCompiler.next({
+  rsc: true, // if used in the app router mode
+})(nextConfig);
