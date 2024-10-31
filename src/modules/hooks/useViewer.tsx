@@ -11,6 +11,9 @@ export const useViewer = () => {
     (rapport) => rapport.path === slug
   );
 
+  console.log("le rapport", report);
+  console.log("le data.rapports", Object.values(data.rapports));
+
   const forward = () => {
     if (report && selectedPage < report.pages.length) {
       setSelectedPage(selectedPage + 1);

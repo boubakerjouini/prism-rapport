@@ -144,13 +144,13 @@ const Viewer: React.FC<{
   };
 
   // Get the current page data
-  const currentPage = data.pages[selectedPage - 1];
-
+  const currentPage = data?.pages[selectedPage - 1];
+  console.log("currentPage", currentPage);
   return (
     <div className="flex flex-col items-center justify-center w-2/3 h-full">
-      <div className="relative w-[770px] h-[580px] overflow-hidden border-[0.2px] border-[#052c52]/50 rounded-none">
+      <div className="relative w-[770px] h-[580px] overflow-hidden  rounded-none">
         {/* Title overlay */}
-        <div className="absolute top-0 left-1/2 transform -translate-x-1/2 bg-[#052c52] text-white p-2 z-10 text-lg font-bold">
+        <div className="absolute top-0 left-1/2 transform -translate-x-1/2 rounded-b-[6px] bg-[#052c52] text-white py-2 px-5 z-10 text-base font-semibold">
           {currentPage.name}
           <p className="text-center text-xs">
             {currentPage.flags.length > 0 &&

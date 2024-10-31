@@ -15,7 +15,7 @@ const SidePanel = ({
   return (
     <div className="flex flex-col items-start justify-start  w-1/3 h-full ">
       <div className="flex flex-col items-start justify-start w-full gap-1 ">
-        {data.pages.map((item: any) => {
+        {data?.pages?.map((item: any) => {
           return (
             <div
               key={item.id}

@@ -10,11 +10,11 @@ const Rapports = () => {
     useViewer();
 
   return (
-    <div className="container max-w-[1400px]  mx-auto flex flex-col items-center justify-center w-full py-10">
-      <h1 className="text-[#052c52] text-[40px] font-black p-2 rounded-none text-left w-full">
-        <i>PRISM</i> Foundation
+    <div className="container max-w-[1200px]  mx-auto flex flex-col items-center justify-center w-full py-6">
+      <h1 className="text-[#052c52] text-[42px] font-semibold px-2 rounded-none text-left w-full">
+        <i>PRISM</i> {report?.name}
       </h1>
-      <div className="flex flex-row  w-full mt-14 ">
+      <div className="flex flex-row  w-full mt-6 ">
         <SidePanel
           data={report}
           selected={selectedPage}
@@ -44,24 +44,24 @@ const Rapports = () => {
         </div>
       </div>
       <div
-        className="flex flex-row items-center
-      bg-[#d3dfe9] p-10
-      justify-center w-full gap-4 mt-10">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rhoncus
-        lectus sodales magna pellentesque euismod sit amet quis orci. Praesent
-        posuere magna vitae nisl efficitur pulvinar. Phasellus lobortis pharetra
-        iaculis. Mauris id nulla tincidunt, tincidunt velit blandit, tincidunt
-        massa. Pellentesque habitant morbi tristique senectus et netus et
-        malesuada fames ac turpis egestas. Duis fringilla tellus vel sem
-        blandit, quis mattis nisi congue. Etiam dignissim leo purus, non
-        bibendum neque tincidunt eu. Vivamus non nunc orci. Quisque eu malesuada
-        turpis. Maecenas vehicula varius ex nec varius. Etiam tristique dictum
-        dui, ut condimentum purus consectetur euismod. Vestibulum nec ornare ex,
-        non mollis massa. Etiam sit amet neque at lacus consectetur porta nec
-        quis sem. Phasellus efficitur nibh in ante malesuada auctor. Sed sed
-        tincidunt nulla. Curabitur bibendum nibh libero, at semper neque iaculis
-        at. Proin et libero molestie, ornare neque a, luctus ligula. In et
-        turpis massa. Integer sit amet dui vitae metus mattis egestas.
+        className="flex items-center
+      bg-[#052c52] p-10 text-[#f6f6f6] 
+      text-[15px] rounded-[9px]
+      justify-center  w-full gap-4 mt-10">
+        PRISM Foundation est la version de base, peu coûteuse, idéale pour une
+        utilisation à grand volume. Les résultats comprennent : une carte du
+        profil en huit dimensions montrant les préférences comportementales
+        naturelle d'une personne ; un profil d'introversion/extroversion ; un
+        texte narratif résumé et un profil des préférences professionnelles,
+        ainsi qu'un rapport sur les aptitudes, l'environnement de travail et une
+        analyse de l'évolution de la carrière. Cette version permet également de
+        faire correspondre le profil à un poste de référence et peut fournir un
+        résultat supplémentaire sur la meilleure adéquation avec le poste de
+        référence. Associée aux profils d'autres individus, cette version peut
+        être utilisée pour former une carte d'équipe. Elle peut être mise à jour
+        ultérieurement vers d’autres versions plus complètes de PRISM. PRISM
+        Foundation nécessite un feedback de la part d'un praticien PRISM
+        certifié.
       </div>
     </div>
   );

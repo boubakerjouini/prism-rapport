@@ -214,6 +214,434 @@
         }
       ]
     },
+    "personal": {
+      "id": 1,
+      "name": "Personal",
+      "path": "personal",
+      "sampleLink": "https://www.google.com",
+      "imapLink": "https://www.google.com",
+      "benchmarkLink": "https://www.google.com",
+      "pages": [
+        {
+          "id": 1,
+          "name": "Introduction",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0004.jpg",
+          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0004.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Carte à 8 dimensions",
+          "flags": [
+            {
+              "id": 1,
+              "name": "Naturel",
+              "status": "destructive"
+            }
+          ],
+          "status": "included",
+          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
+          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Carte à 8 dimensions",
+          "flags": [
+            {
+              "id": 1,
+              "name": "Nat",
+              "status": "destructive"
+            },
+            {
+              "id": 2,
+              "name": "Ada",
+              "status": "constructive"
+            }
+          ],
+          "status": "not_included",
+          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
+          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Carte à 8 dimensions",
+          "flags": [
+            {
+              "id": 1,
+              "name": "Nat",
+              "status": "destructive"
+            },
+            {
+              "id": 2,
+              "name": "Ada",
+              "status": "constructive"
+            },
+            {
+              "id": 3,
+              "name": "Con",
+              "status": "primary"
+            }
+          ],
+          "status": "not_included",
+          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
+          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Carte à 8 dimensions",
+          "flags": [
+            {
+              "id": 1,
+              "name": "Nat",
+              "status": "destructive"
+            },
+            {
+              "id": 2,
+              "name": "Benchmark",
+              "status": "benchmark"
+            }
+          ],
+          "status": "included",
+          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
+          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Introversion/Extraversion",
+          "flags": [],
+          "status": "optional",
+          "image": "introextra.png",
+          "viewerImage": "introextra.png"
+        },
+        {
+          "id": 7,
+          "name": "Points clés des dimensions",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_dimension_key_points.jpg",
+          "viewerImage": "foundation_dimension_key_points_viewer.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Profil narratif - Résumé",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_personal_narrative_summary.jpg",
+          "viewerImage": "foundation_personal_narrative_summary_viewer.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Profil narratif - Complet",
+          "flags": [],
+          "status": "optional",
+          "image": "foundation_personal_narrative_full.jpg",
+          "viewerImage": "foundation_personal_narrative_full_viewer.jpg"
+        },
+        {
+          "id": 10,
+          "name": "Job Benchmark/profil candidat",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_job_benchmark_comparison.jpg",
+          "viewerImage": "foundation_job_benchmark_comparison_viewer.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Préférences en matière de travail",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_work_preference_profile.jpg",
+          "viewerImage": "foundation_work_preference_profile_viewer.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Préférences Aptitudes & Environnement",
+          "flags": [],
+          "status": "not_included",
+          "image": "foundation_work_aptitude_environment.jpg",
+          "viewerImage": "foundation_work_aptitude_environment_viewer.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Couleurs quadrants - Caractéristiques",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_quadrant_colour_characteristics.jpg",
+          "viewerImage": "foundation_quadrant_colour_characteristics_viewer.jpg"
+        },
+        {
+          "id": 14,
+          "name": "Développement de carrière - Analyse",
+          "flags": [],
+          "status": "optional",
+          "image": "foundation_career_development_analysis.jpg",
+          "viewerImage": "foundation_career_development_analysis_viewer.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Rapport Intelligence Emotionnelle",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_emotional_intelligence_report.jpg",
+          "viewerImage": "foundation_emotional_intelligence_report_viewer.jpg"
+        },
+        {
+          "id": 16,
+          "name": "Rapport 'Big Five'",
+          "flags": [],
+          "status": "optional",
+          "image": "foundation_big_five_report.jpg",
+          "viewerImage": "foundation_big_five_report_viewer.jpg"
+        },
+        {
+          "id": 17,
+          "name": "Rapport Force Mentale",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_mental_toughness_report.jpg",
+          "viewerImage": "foundation_mental_toughness_report_viewer.jpg"
+        },
+        {
+          "id": 18,
+          "name": "Rétroaction à 360°",
+          "flags": [],
+          "status": "not_included",
+          "image": "foundation_360_feedback_upgrade.jpg",
+          "viewerImage": "foundation_360_feedback_upgrade_viewer.jpg"
+        },
+        {
+          "id": 19,
+          "name": "Anlyse Best Fit",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_best_fit_analysis.jpg",
+          "viewerImage": "foundation_best_fit_analysis_viewer.jpg"
+        },
+        {
+          "id": 20,
+          "name": "Team Maps",
+          "flags": [],
+          "status": "optional",
+          "image": "foundation_team_maps.jpg",
+          "viewerImage": "foundation_team_maps_viewer.jpg"
+        }
+      ]
+    },
+    "professional": {
+      "id": 1,
+      "name": "Professional",
+      "path": "professional",
+      "sampleLink": "https://www.google.com",
+      "imapLink": "https://www.google.com",
+      "benchmarkLink": "https://www.google.com",
+      "pages": [
+        {
+          "id": 1,
+          "name": "Introduction",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0004.jpg",
+          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0004.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Carte à 8 dimensions",
+          "flags": [
+            {
+              "id": 1,
+              "name": "Naturel",
+              "status": "destructive"
+            }
+          ],
+          "status": "included",
+          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
+          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Carte à 8 dimensions",
+          "flags": [
+            {
+              "id": 1,
+              "name": "Nat",
+              "status": "destructive"
+            },
+            {
+              "id": 2,
+              "name": "Ada",
+              "status": "constructive"
+            }
+          ],
+          "status": "included",
+          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
+          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Carte à 8 dimensions",
+          "flags": [
+            {
+              "id": 1,
+              "name": "Nat",
+              "status": "destructive"
+            },
+            {
+              "id": 2,
+              "name": "Ada",
+              "status": "constructive"
+            },
+            {
+              "id": 3,
+              "name": "Con",
+              "status": "primary"
+            }
+          ],
+          "status": "included",
+          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
+          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Carte à 8 dimensions",
+          "flags": [
+            {
+              "id": 1,
+              "name": "Nat",
+              "status": "destructive"
+            },
+            {
+              "id": 2,
+              "name": "Benchmark",
+              "status": "benchmark"
+            }
+          ],
+          "status": "included",
+          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
+          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Introversion/Extraversion",
+          "flags": [],
+          "status": "included",
+          "image": "introextra.png",
+          "viewerImage": "introextra.png"
+        },
+        {
+          "id": 7,
+          "name": "Points clés des dimensions",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_dimension_key_points.jpg",
+          "viewerImage": "foundation_dimension_key_points_viewer.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Profil narratif - Résumé",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_personal_narrative_summary.jpg",
+          "viewerImage": "foundation_personal_narrative_summary_viewer.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Profil narratif - Complet",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_personal_narrative_full.jpg",
+          "viewerImage": "foundation_personal_narrative_full_viewer.jpg"
+        },
+        {
+          "id": 10,
+          "name": "Job Benchmark/profil candidat",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_job_benchmark_comparison.jpg",
+          "viewerImage": "foundation_job_benchmark_comparison_viewer.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Préférences en matière de travail",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_work_preference_profile.jpg",
+          "viewerImage": "foundation_work_preference_profile_viewer.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Préférences Aptitudes & Environnement",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_work_aptitude_environment.jpg",
+          "viewerImage": "foundation_work_aptitude_environment_viewer.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Couleurs quadrants - Caractéristiques",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_quadrant_colour_characteristics.jpg",
+          "viewerImage": "foundation_quadrant_colour_characteristics_viewer.jpg"
+        },
+        {
+          "id": 14,
+          "name": "Développement de carrière - Analyse",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_career_development_analysis.jpg",
+          "viewerImage": "foundation_career_development_analysis_viewer.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Rapport Intelligence Emotionnelle",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_emotional_intelligence_report.jpg",
+          "viewerImage": "foundation_emotional_intelligence_report_viewer.jpg"
+        },
+        {
+          "id": 16,
+          "name": "Rapport 'Big Five'",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_big_five_report.jpg",
+          "viewerImage": "foundation_big_five_report_viewer.jpg"
+        },
+        {
+          "id": 17,
+          "name": "Rapport Force Mentale",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_mental_toughness_report.jpg",
+          "viewerImage": "foundation_mental_toughness_report_viewer.jpg"
+        },
+        {
+          "id": 18,
+          "name": "Rétroaction à 360°",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_360_feedback_upgrade.jpg",
+          "viewerImage": "foundation_360_feedback_upgrade_viewer.jpg"
+        },
+        {
+          "id": 19,
+          "name": "Anlyse Best Fit",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_best_fit_analysis.jpg",
+          "viewerImage": "foundation_best_fit_analysis_viewer.jpg"
+        },
+        {
+          "id": 20,
+          "name": "Team Maps",
+          "flags": [],
+          "status": "included",
+          "image": "foundation_team_maps.jpg",
+          "viewerImage": "foundation_team_maps_viewer.jpg"
+        }
+      ]
+    },
     "structure": {
       "id": 2,
       "name": "Structure",
