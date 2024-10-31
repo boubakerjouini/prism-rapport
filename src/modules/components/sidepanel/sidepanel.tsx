@@ -13,13 +13,13 @@ const SidePanel = ({
   setSelected: any;
 }) => {
   return (
-    <div className="flex flex-col items-start justify-start  w-full  text-nowrap h-full ">
-      <div className="flex flex-col items-start justify-start w-full gap-1 ">
+    <div className="flex flex-col items-start justify-start  w-full   text-nowrap h-full ">
+      <div className="flex flex-col items-start  justify-start w-full gap-1 ">
         {data?.pages?.map((item: any) => {
           return (
             <div
               key={item.id}
-              className={`flex flex-row items-center justify-start w-full gap-4  cursor-pointer hover:font-medium ${
+              className={`flex flex-row items-center  justify-start w-full gap-4  cursor-pointer hover:font-medium ${
                 selected === item.id ? "font-semibold" : ""
               }`}
               onClick={() => setSelected(item.id)}>

@@ -5,7 +5,7 @@ const TextView = ({ page }: { page: string }) => {
   console.log("el page", page);
 
   return (
-    <div className=" max-w-[1030px] mt-24 items-center bg-[#052c52] p-10 text-[#f6f6f6] text-[16px]  rounded-[9px] justify-center w-full gap-4 ">
+    <div className=" max-w-[1030px] mt-12 items-center bg-[#052c52] p-10 text-[#f6f6f6] text-[16px]  rounded-[9px] justify-center w-full gap-4  ">
       <span className="font-bold">PRISM Foundation</span> est la version de
       base, peu coûteuse, idéale pour une utilisation à grand volume. Les
       résultats comprennent : une carte du profil en huit dimensions montrant
