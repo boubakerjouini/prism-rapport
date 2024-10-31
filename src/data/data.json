@@ -13,8 +13,8 @@
           "name": "Introduction",
           "flags": [],
           "status": "included",
-          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0004.jpg",
-          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0004.jpg"
+          "image": "Rapport PRISM_Foundation_Fr-004.jpg",
+          "viewerImage": "Rapport PRISM_Foundation_Fr-004.jpg"
         },
         {
           "id": 2,
@@ -27,8 +27,8 @@
             }
           ],
           "status": "included",
-          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
-          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+          "image": "Rapport PRISM_Personal_Fr-006-1.jpg",
+          "viewerImage": "Rapport PRISM_Personal_Fr-006-1.jpg"
         },
         {
           "id": 3,
@@ -45,9 +45,9 @@
               "status": "constructive"
             }
           ],
-          "status": "not_included",
-          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
-          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+          "status": "not included",
+          "image": "Rapport PRISM_Professional_Fr-006-2.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-006-2.jpg"
         },
         {
           "id": 4,
@@ -69,9 +69,9 @@
               "status": "primary"
             }
           ],
-          "status": "not_included",
-          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
-          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+          "status": "not included",
+          "image": "Rapport PRISM_Professional_Fr-006-3.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-006-3.jpg"
         },
         {
           "id": 5,
@@ -89,131 +89,132 @@
             }
           ],
           "status": "included",
-          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
-          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+          "image": "Rapport PRISM_Professional_Fr-006-4.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-006-4.jpg"
         },
         {
           "id": 6,
           "name": "Introversion/Extraversion",
           "flags": [],
-          "status": "optional",
-          "image": "introextra.png",
-          "viewerImage": "introextra.png"
+          "status": "included",
+          "image": "Rapport PRISM_Professional_Fr-007.png",
+          "viewerImage": "Rapport PRISM_Professional_Fr-007.png"
         },
         {
           "id": 7,
           "name": "Points clés des dimensions",
           "flags": [],
           "status": "included",
-          "image": "foundation_dimension_key_points.jpg",
-          "viewerImage": "foundation_dimension_key_points_viewer.jpg"
+          "image": "Rapport PRISM_Foundation_Fr-008.jpg",
+          "viewerImage": "Rapport PRISM_Foundation_Fr-008.jpg"
         },
         {
           "id": 8,
           "name": "Profil narratif - Résumé",
           "flags": [],
           "status": "included",
-          "image": "foundation_personal_narrative_summary.jpg",
-          "viewerImage": "foundation_personal_narrative_summary_viewer.jpg"
+          "image": "Rapport PRISM_Professional_Fr-009.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-009.jpg"
         },
         {
           "id": 9,
           "name": "Profil narratif - Complet",
           "flags": [],
-          "status": "optional",
-          "image": "foundation_personal_narrative_full.jpg",
-          "viewerImage": "foundation_personal_narrative_full_viewer.jpg"
+          "status": "not included",
+          "image": "Rapport PRISM_Personal_Fr-010-1.jpg",
+          "viewerImage": "Rapport PRISM_Personal_Fr-010-1.jpg"
         },
         {
           "id": 10,
-          "name": "Job Benchmark/profil candidat",
+          "name": "Job Benchmark/Profil candidat",
           "flags": [],
           "status": "included",
-          "image": "foundation_job_benchmark_comparison.jpg",
-          "viewerImage": "foundation_job_benchmark_comparison_viewer.jpg"
+          "image": "Rapport PRISM_Foundation_Fr-011.jpg",
+          "viewerImage": "Rapport PRISM_Foundation_Fr-011.jpg"
         },
         {
           "id": 11,
           "name": "Préférences en matière de travail",
           "flags": [],
           "status": "included",
-          "image": "foundation_work_preference_profile.jpg",
-          "viewerImage": "foundation_work_preference_profile_viewer.jpg"
+          "image": "Rapport PRISM_Foundation_Fr-012-1.jpg",
+          "viewerImage": "Rapport PRISM_Foundation_Fr-012-1.jpg"
         },
         {
           "id": 12,
           "name": "Préférences Aptitudes & Environnement",
           "flags": [],
-          "status": "not_included",
-          "image": "foundation_work_aptitude_environment.jpg",
-          "viewerImage": "foundation_work_aptitude_environment_viewer.jpg"
+          "status": "included",
+          "image": "Rapport PRISM_Foundation_Fr-012-3.jpg",
+          "viewerImage": "Rapport PRISM_Foundation_Fr-012-3.jpg"
         },
         {
           "id": 13,
           "name": "Couleurs quadrants - Caractéristiques",
           "flags": [],
           "status": "included",
-          "image": "foundation_quadrant_colour_characteristics.jpg",
-          "viewerImage": "foundation_quadrant_colour_characteristics_viewer.jpg"
+          "image": "Rapport PRISM_Foundation_Fr-017.jpg",
+          "viewerImage": "Rapport PRISM_Foundation_Fr-017.jpg"
         },
         {
           "id": 14,
           "name": "Développement de carrière - Analyse",
           "flags": [],
           "status": "optional",
-          "image": "foundation_career_development_analysis.jpg",
-          "viewerImage": "foundation_career_development_analysis_viewer.jpg"
+          "image": "Rapport PRISM_Foundation_Fr-020.jpg",
+          "viewerImage": "Rapport PRISM_Foundation_Fr-020.jpg"
         },
         {
           "id": 15,
           "name": "Rapport Intelligence Emotionnelle",
           "flags": [],
-          "status": "included",
-          "image": "foundation_emotional_intelligence_report.jpg",
-          "viewerImage": "foundation_emotional_intelligence_report_viewer.jpg"
+          "status": "not included",
+          "image": "Rapport PRISM_Professional_Fr-031.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-031.jpg"
         },
         {
           "id": 16,
           "name": "Rapport 'Big Five'",
           "flags": [],
-          "status": "optional",
-          "image": "foundation_big_five_report.jpg",
+          "status": "not included",
+          "image": "Rapport PRISM_Professional_Fr-037.jpg",
           "viewerImage": "foundation_big_five_report_viewer.jpg"
         },
         {
           "id": 17,
           "name": "Rapport Force Mentale",
           "flags": [],
-          "status": "included",
-          "image": "foundation_mental_toughness_report.jpg",
-          "viewerImage": "foundation_mental_toughness_report_viewer.jpg"
+          "status": "not included",
+          "image": "Rapport PRISM_Professional_Fr-038.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-038.jpg"
         },
         {
           "id": 18,
           "name": "Rétroaction à 360°",
           "flags": [],
-          "status": "not_included",
-          "image": "foundation_360_feedback_upgrade.jpg",
-          "viewerImage": "foundation_360_feedback_upgrade_viewer.jpg"
+          "status": "not included",
+          "image": "Rapport PRISM_Professional_Fr-039.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-039.jpg"
         },
         {
           "id": 19,
-          "name": "Anlyse Best Fit",
+          "name": "Analyse Best Fit",
           "flags": [],
-          "status": "included",
-          "image": "foundation_best_fit_analysis.jpg",
-          "viewerImage": "foundation_best_fit_analysis_viewer.jpg"
+          "status": "optional",
+          "image": "Rapport PRISM_Professional_Fr-040.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-040.jpg"
         },
         {
           "id": 20,
           "name": "Team Maps",
           "flags": [],
           "status": "optional",
-          "image": "foundation_team_maps.jpg",
-          "viewerImage": "foundation_team_maps_viewer.jpg"
+          "image": "Rapport PRISM_Professional_Fr-041.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-041.jpg"
         }
       ]
     },
+
     "personal": {
       "id": 1,
       "name": "Personal",
@@ -227,8 +228,8 @@
           "name": "Introduction",
           "flags": [],
           "status": "included",
-          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0004.jpg",
-          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0004.jpg"
+          "image": "Rapport PRISM_Personal_Fr-004.jpg",
+          "viewerImage": "Rapport PRISM_Personal_Fr-004.jpg"
         },
         {
           "id": 2,
@@ -241,8 +242,8 @@
             }
           ],
           "status": "included",
-          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
-          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+          "image": "Rapport PRISM_Personal_Fr-006-1.jpg",
+          "viewerImage": "Rapport PRISM_Personal_Fr-006-1.jpg"
         },
         {
           "id": 3,
@@ -255,13 +256,13 @@
             },
             {
               "id": 2,
-              "name": "Ada",
-              "status": "constructive"
+              "name": "Con",
+              "status": "primary"
             }
           ],
-          "status": "not_included",
-          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
-          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+          "status": "included",
+          "image": "Rapport PRISM_Personal_Fr-006-2.jpg",
+          "viewerImage": "Rapport PRISM_Personal_Fr-006-2.jpg"
         },
         {
           "id": 4,
@@ -283,9 +284,9 @@
               "status": "primary"
             }
           ],
-          "status": "not_included",
-          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
-          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+          "status": "included",
+          "image": "Rapport PRISM_Personal_Fr-006-3.jpg",
+          "viewerImage": "Rapport PRISM_Personal_Fr-006-3.jpg"
         },
         {
           "id": 5,
@@ -303,131 +304,132 @@
             }
           ],
           "status": "included",
-          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
-          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+          "image": "Rapport PRISM_Personal_Fr-006-4.jpg",
+          "viewerImage": "Rapport PRISM_Personal_Fr-006-4.jpg"
         },
         {
           "id": 6,
           "name": "Introversion/Extraversion",
           "flags": [],
-          "status": "optional",
-          "image": "introextra.png",
-          "viewerImage": "introextra.png"
+          "status": "included",
+          "image": "Rapport PRISM_Personal_Fr-007.png",
+          "viewerImage": "Rapport PRISM_Personal_Fr-007.png"
         },
         {
           "id": 7,
           "name": "Points clés des dimensions",
           "flags": [],
           "status": "included",
-          "image": "foundation_dimension_key_points.jpg",
-          "viewerImage": "foundation_dimension_key_points_viewer.jpg"
+          "image": "Rapport PRISM_Personal_Fr-008.jpg",
+          "viewerImage": "Rapport PRISM_Personal_Fr-008.jpg"
         },
         {
           "id": 8,
           "name": "Profil narratif - Résumé",
           "flags": [],
-          "status": "included",
-          "image": "foundation_personal_narrative_summary.jpg",
-          "viewerImage": "foundation_personal_narrative_summary_viewer.jpg"
+          "status": "optional",
+          "image": "Rapport PRISM_Personal_Fr-009.jpg",
+          "viewerImage": "Rapport PRISM_Personal_Fr-009.jpg"
         },
         {
           "id": 9,
           "name": "Profil narratif - Complet",
           "flags": [],
-          "status": "optional",
-          "image": "foundation_personal_narrative_full.jpg",
-          "viewerImage": "foundation_personal_narrative_full_viewer.jpg"
+          "status": "included",
+          "image": "Rapport PRISM_Personal_Fr-010-1.jpg",
+          "viewerImage": "Rapport PRISM_Personal_Fr-010-1.jpg"
         },
         {
           "id": 10,
-          "name": "Job Benchmark/profil candidat",
+          "name": "Job Benchmark/Profil candidat",
           "flags": [],
           "status": "included",
-          "image": "foundation_job_benchmark_comparison.jpg",
-          "viewerImage": "foundation_job_benchmark_comparison_viewer.jpg"
+          "image": "Rapport PRISM_Personal_Fr-011.jpg",
+          "viewerImage": "Rapport PRISM_Personal_Fr-011.jpg"
         },
         {
           "id": 11,
           "name": "Préférences en matière de travail",
           "flags": [],
           "status": "included",
-          "image": "foundation_work_preference_profile.jpg",
-          "viewerImage": "foundation_work_preference_profile_viewer.jpg"
+          "image": "Rapport PRISM_Personal_Fr-014.jpg",
+          "viewerImage": "Rapport PRISM_Personal_Fr-014.jpg"
         },
         {
           "id": 12,
           "name": "Préférences Aptitudes & Environnement",
           "flags": [],
-          "status": "not_included",
-          "image": "foundation_work_aptitude_environment.jpg",
-          "viewerImage": "foundation_work_aptitude_environment_viewer.jpg"
+          "status": "included",
+          "image": "Rapport PRISM_Personal_Fr-016.jpg",
+          "viewerImage": "Rapport PRISM_Personal_Fr-016.jpg"
         },
         {
           "id": 13,
           "name": "Couleurs quadrants - Caractéristiques",
           "flags": [],
           "status": "included",
-          "image": "foundation_quadrant_colour_characteristics.jpg",
-          "viewerImage": "foundation_quadrant_colour_characteristics_viewer.jpg"
+          "image": "Rapport PRISM_Personal_Fr-021.jpg",
+          "viewerImage": "Rapport PRISM_Personal_Fr-021.jpg"
         },
         {
           "id": 14,
           "name": "Développement de carrière - Analyse",
           "flags": [],
           "status": "optional",
-          "image": "foundation_career_development_analysis.jpg",
-          "viewerImage": "foundation_career_development_analysis_viewer.jpg"
+          "image": "Rapport PRISM_Personal_Fr-026.jpg",
+          "viewerImage": "Rapport PRISM_Personal_Fr-026.jpg"
         },
         {
           "id": 15,
           "name": "Rapport Intelligence Emotionnelle",
           "flags": [],
-          "status": "included",
-          "image": "foundation_emotional_intelligence_report.jpg",
-          "viewerImage": "foundation_emotional_intelligence_report_viewer.jpg"
+          "status": "not included",
+          "image": "Rapport PRISM_Professional_Fr-031.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-031.jpg"
         },
         {
           "id": 16,
           "name": "Rapport 'Big Five'",
           "flags": [],
-          "status": "optional",
-          "image": "foundation_big_five_report.jpg",
+          "status": "not included",
+          "image": "Rapport PRISM_Professional_Fr-037.jpg",
           "viewerImage": "foundation_big_five_report_viewer.jpg"
         },
         {
           "id": 17,
           "name": "Rapport Force Mentale",
           "flags": [],
-          "status": "included",
-          "image": "foundation_mental_toughness_report.jpg",
-          "viewerImage": "foundation_mental_toughness_report_viewer.jpg"
+          "status": "not included",
+          "image": "Rapport PRISM_Professional_Fr-038.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-038.jpg"
         },
         {
           "id": 18,
           "name": "Rétroaction à 360°",
           "flags": [],
-          "status": "not_included",
-          "image": "foundation_360_feedback_upgrade.jpg",
-          "viewerImage": "foundation_360_feedback_upgrade_viewer.jpg"
+          "status": "optional",
+          "image": "Rapport PRISM_Professional_Fr-039.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-039.jpg"
         },
         {
           "id": 19,
-          "name": "Anlyse Best Fit",
+          "name": "Analyse Best Fit",
           "flags": [],
-          "status": "included",
-          "image": "foundation_best_fit_analysis.jpg",
-          "viewerImage": "foundation_best_fit_analysis_viewer.jpg"
+          "status": "optional",
+          "image": "Rapport PRISM_Professional_Fr-040.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-040.jpg"
         },
         {
           "id": 20,
           "name": "Team Maps",
           "flags": [],
           "status": "optional",
-          "image": "foundation_team_maps.jpg",
-          "viewerImage": "foundation_team_maps_viewer.jpg"
+          "image": "Rapport PRISM_Professional_Fr-041.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-041.jpg"
         }
       ]
     },
+
     "professional": {
       "id": 1,
       "name": "Professional",
@@ -441,8 +443,8 @@
           "name": "Introduction",
           "flags": [],
           "status": "included",
-          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0004.jpg",
-          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0004.jpg"
+          "image": "Rapport PRISM_Professional_Fr-004.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-004.jpg"
         },
         {
           "id": 2,
@@ -455,8 +457,8 @@
             }
           ],
           "status": "included",
-          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
-          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+          "image": "Rapport PRISM_Professional_Fr-006-1.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-006-1.jpg"
         },
         {
           "id": 3,
@@ -469,13 +471,13 @@
             },
             {
               "id": 2,
-              "name": "Ada",
-              "status": "constructive"
+              "name": "Con",
+              "status": "primary"
             }
           ],
           "status": "included",
-          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
-          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+          "image": "Rapport PRISM_Professional_Fr-006-2.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-006-2.jpg"
         },
         {
           "id": 4,
@@ -498,8 +500,8 @@
             }
           ],
           "status": "included",
-          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
-          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+          "image": "Rapport PRISM_Professional_Fr-006-3.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-006-3.jpg"
         },
         {
           "id": 5,
@@ -517,95 +519,95 @@
             }
           ],
           "status": "included",
-          "image": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg",
-          "viewerImage": "Rapport PRISM_Foundation_Fr_pages-to-jpg-0006.jpg"
+          "image": "Rapport PRISM_Professional_Fr-006-4.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-006-4.jpg"
         },
         {
           "id": 6,
           "name": "Introversion/Extraversion",
           "flags": [],
           "status": "included",
-          "image": "introextra.png",
-          "viewerImage": "introextra.png"
+          "image": "Rapport PRISM_Professional_Fr-006-5.png",
+          "viewerImage": "Rapport PRISM_Professional_Fr-006-5.png"
         },
         {
           "id": 7,
           "name": "Points clés des dimensions",
           "flags": [],
           "status": "included",
-          "image": "foundation_dimension_key_points.jpg",
-          "viewerImage": "foundation_dimension_key_points_viewer.jpg"
+          "image": "Rapport PRISM_Professional_Fr-007.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-007.jpg"
         },
         {
           "id": 8,
           "name": "Profil narratif - Résumé",
           "flags": [],
-          "status": "included",
-          "image": "foundation_personal_narrative_summary.jpg",
-          "viewerImage": "foundation_personal_narrative_summary_viewer.jpg"
+          "status": "optional",
+          "image": "Rapport PRISM_Professional_Fr-009.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-009.jpg"
         },
         {
           "id": 9,
           "name": "Profil narratif - Complet",
           "flags": [],
           "status": "included",
-          "image": "foundation_personal_narrative_full.jpg",
-          "viewerImage": "foundation_personal_narrative_full_viewer.jpg"
+          "image": "Rapport PRISM_Professional_Fr-010-1.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-010-1.jpg"
         },
         {
           "id": 10,
-          "name": "Job Benchmark/profil candidat",
+          "name": "Job Benchmark/Profil candidat",
           "flags": [],
           "status": "included",
-          "image": "foundation_job_benchmark_comparison.jpg",
-          "viewerImage": "foundation_job_benchmark_comparison_viewer.jpg"
+          "image": "Rapport PRISM_Professional_Fr-011.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-011.jpg"
         },
         {
           "id": 11,
           "name": "Préférences en matière de travail",
           "flags": [],
           "status": "included",
-          "image": "foundation_work_preference_profile.jpg",
-          "viewerImage": "foundation_work_preference_profile_viewer.jpg"
+          "image": "Rapport PRISM_Professional_Fr-014.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-014.jpg"
         },
         {
           "id": 12,
           "name": "Préférences Aptitudes & Environnement",
           "flags": [],
           "status": "included",
-          "image": "foundation_work_aptitude_environment.jpg",
-          "viewerImage": "foundation_work_aptitude_environment_viewer.jpg"
+          "image": "Rapport PRISM_Professional_Fr-016.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-016.jpg"
         },
         {
           "id": 13,
           "name": "Couleurs quadrants - Caractéristiques",
           "flags": [],
           "status": "included",
-          "image": "foundation_quadrant_colour_characteristics.jpg",
-          "viewerImage": "foundation_quadrant_colour_characteristics_viewer.jpg"
+          "image": "Rapport PRISM_Professional_Fr-021.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-021.jpg"
         },
         {
           "id": 14,
           "name": "Développement de carrière - Analyse",
           "flags": [],
           "status": "included",
-          "image": "foundation_career_development_analysis.jpg",
-          "viewerImage": "foundation_career_development_analysis_viewer.jpg"
+          "image": "Rapport PRISM_Professional_Fr-026.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-026.jpg"
         },
         {
           "id": 15,
           "name": "Rapport Intelligence Emotionnelle",
           "flags": [],
           "status": "included",
-          "image": "foundation_emotional_intelligence_report.jpg",
-          "viewerImage": "foundation_emotional_intelligence_report_viewer.jpg"
+          "image": "Rapport PRISM_Professional_Fr-031.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-031.jpg"
         },
         {
           "id": 16,
           "name": "Rapport 'Big Five'",
           "flags": [],
           "status": "included",
-          "image": "foundation_big_five_report.jpg",
+          "image": "Rapport PRISM_Professional_Fr-037.jpg",
           "viewerImage": "foundation_big_five_report_viewer.jpg"
         },
         {
@@ -613,108 +615,512 @@
           "name": "Rapport Force Mentale",
           "flags": [],
           "status": "included",
-          "image": "foundation_mental_toughness_report.jpg",
-          "viewerImage": "foundation_mental_toughness_report_viewer.jpg"
+          "image": "Rapport PRISM_Professional_Fr-038.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-038.jpg"
         },
         {
           "id": 18,
           "name": "Rétroaction à 360°",
           "flags": [],
-          "status": "included",
-          "image": "foundation_360_feedback_upgrade.jpg",
-          "viewerImage": "foundation_360_feedback_upgrade_viewer.jpg"
+          "status": "optional",
+          "image": "Rapport PRISM_Professional_Fr-039.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-039.jpg"
         },
         {
           "id": 19,
-          "name": "Anlyse Best Fit",
+          "name": "Analyse Best Fit",
           "flags": [],
-          "status": "included",
-          "image": "foundation_best_fit_analysis.jpg",
-          "viewerImage": "foundation_best_fit_analysis_viewer.jpg"
+          "status": "optional",
+          "image": "Rapport PRISM_Professional_Fr-040.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-040.jpg"
         },
         {
           "id": 20,
           "name": "Team Maps",
           "flags": [],
-          "status": "included",
-          "image": "foundation_team_maps.jpg",
-          "viewerImage": "foundation_team_maps_viewer.jpg"
+          "status": "optional",
+          "image": "Rapport PRISM_Professional_Fr-041.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-041.jpg"
         }
       ]
     },
-    "structure": {
-      "id": 2,
-      "name": "Structure",
-      "path": "structure",
-      "sampleLink": "https://www.bing.com",
-      "imapLink": "https://www.bing.com",
-      "benchmarkLink": "https://www.bing.com",
+
+    "team-performance-diagnostic": {
+      "id": 1,
+      "name": "Team Performance Diagnostic",
+      "path": "team-performance-diagnostic",
+      "sampleLink": "https://www.google.com",
+      "imapLink": "https://www.google.com",
+      "benchmarkLink": "https://www.google.com",
       "pages": [
         {
           "id": 1,
-          "name": "Structure Page 1",
-          "flags": [
-            {
-              "id": 3,
-              "name": "Flag 3",
-              "status": "included"
-            }
-          ],
+          "name": "Ce qu'il mesure",
+          "flags": [],
           "status": "included",
-          "image": "structure_page_1.jpg",
-          "viewerImage": "structure_page_1_viewer.jpg"
+          "image": "Rapport PRISM_Team Performance Diagnostic_Fr-004.jpg",
+          "viewerImage": "Rapport PRISM_Team Performance Diagnostic_Fr-004.jpg"
         },
         {
           "id": 2,
-          "name": "Structure Page 2",
-          "flags": [
-            {
-              "id": 4,
-              "name": "Flag 4",
-              "status": "included"
-            }
-          ],
+          "name": "Ce qu'il mesure (suite)",
+          "flags": [],
           "status": "included",
-          "image": "structure_page_2.jpg",
-          "viewerImage": "structure_page_2_viewer.jpg"
+          "image": "Rapport PRISM_Team Performance Diagnostic_Fr-005.jpg",
+          "viewerImage": "Rapport PRISM_Team Performance Diagnostic_Fr-005.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Team Performance Diagnostic – Graphique",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport PRISM_Team Performance Diagnostic_Fr-008.jpg",
+          "viewerImage": "Rapport PRISM_Team Performance Diagnostic_Fr-008.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Moral de l’équipe - Analyse",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport PRISM_Team Performance Diagnostic_Fr-009.jpg",
+          "viewerImage": "Rapport PRISM_Team Performance Diagnostic_Fr-009.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Scores - Domaines de résultats clés",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport PRISM_Team Performance Diagnostic_Fr-010.jpg",
+          "viewerImage": "Rapport PRISM_Team Performance Diagnostic_Fr-010.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Scores - Culture organisationnelle",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport PRISM_Team Performance Diagnostic_Fr-011.jpg",
+          "viewerImage": "Rapport PRISM_Team Performance Diagnostic_Fr-011.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Évaluation - Performances de l'équipe",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport PRISM_Team Performance Diagnostic_Fr-012.jpg",
+          "viewerImage": "Rapport PRISM_Team Performance Diagnostic_Fr-012.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Tableau comparatif des résultats",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport PRISM_Team Performance Diagnostic_Fr-013.jpg",
+          "viewerImage": "Rapport PRISM_Team Performance Diagnostic_Fr-013.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Tableau - Auto-perception de l'équip",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport PRISM_Team Performance Diagnostic_Fr-014.jpg",
+          "viewerImage": "Rapport PRISM_Team Performance Diagnostic_Fr-014.jpg"
+        },
+        {
+          "id": 10,
+          "name": "Commentaires des répondants",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport PRISM_Team Performance Diagnostic_Fr-015.jpg",
+          "viewerImage": "Rapport PRISM_Team Performance Diagnostic_Fr-015.jpg"
         }
       ]
     },
-    "roof": {
-      "id": 3,
-      "name": "Roof",
-      "path": "roof",
-      "sampleLink": "https://www.yahoo.com",
-      "imapLink": "https://www.yahoo.com",
-      "benchmarkLink": "https://www.yahoo.com",
+
+    "360 Feedback": {
+      "id": 1,
+      "name": "360 Feedback",
+      "path": "360-feedback",
+      "sampleLink": "https://www.google.com",
+      "imapLink": "https://www.google.com",
+      "benchmarkLink": "https://www.google.com",
       "pages": [
         {
           "id": 1,
-          "name": "Roof Page 1",
-          "flags": [
-            {
-              "id": 5,
-              "name": "Flag 5",
-              "status": "included"
-            }
-          ],
+          "name": "360° Intelligence Émotionnelle",
+          "flags": [],
           "status": "included",
-          "image": "roof_page_1.jpg",
-          "viewerImage": "roof_page_1_viewer.jpg"
+          "image": "Rapport 360 Feedback - 001.jpg",
+          "viewerImage": "Rapport 360 Feedback - 001.jpg"
         },
         {
           "id": 2,
-          "name": "Roof Page 2",
-          "flags": [
-            {
-              "id": 6,
-              "name": "Flag 6",
-              "status": "excluded"
-            }
-          ],
-          "status": "excluded",
-          "image": "roof_page_2.jpg",
-          "viewerImage": "roof_page_2_viewer.jpg"
+          "name": "360° ‘Big Five’",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport 360 Feedback - 002.jpg",
+          "viewerImage": "Rapport 360 Feedback - 002.jpg"
+        },
+        {
+          "id": 3,
+          "name": "360° Force Mentale",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport 360 Feedback - 003.jpg",
+          "viewerImage": "Rapport 360 Feedback - 003.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Introduction",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport 360 Feedback - 004.jpg",
+          "viewerImage": "Rapport 360 Feedback - 004.jpg"
+        },
+        {
+          "id": 5,
+          "name": "360° Carte à 8 dimensions",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport 360 Feedback - 005.jpg",
+          "viewerImage": "Rapport 360 Feedback - 005.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Tableau récapitulatif 360°",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport 360 Feedback - 006.jpg",
+          "viewerImage": "Rapport 360 Feedback - 006.jpg"
+        },
+        {
+          "id": 7,
+          "name": "360° Préférences comportementales",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport 360 Feedback - 007.jpg",
+          "viewerImage": "Rapport 360 Feedback - 007.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Sous-compétences à 360°",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport 360 Feedback - 008.jpg",
+          "viewerImage": "Rapport 360 Feedback - 008.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Compétences à 360° - Items",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport 360 Feedback - 009.jpg",
+          "viewerImage": "Rapport 360 Feedback - 009.jpg"
+        },
+        {
+          "id": 10,
+          "name": "Commentaires des observateurs",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport 360 Feedback - 0010.jpg",
+          "viewerImage": "Rapport 360 Feedback - 0010.jpg"
+        }
+      ]
+    },
+
+    "Team Maps": {
+      "id": 1,
+      "name": "Team Maps",
+      "path": "team-maps",
+      "sampleLink": "https://www.google.com",
+      "imapLink": "https://www.google.com",
+      "benchmarkLink": "https://www.google.com",
+      "pages": [
+        {
+          "id": 1,
+          "name": "Profil de l'équipe",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Team Maps - 001.jpg",
+          "viewerImage": "Rapport Team Maps - 001.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Écarts – Moyenne de l'équipe et chef d'équipe",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Team Maps - 002.jpg",
+          "viewerImage": "Rapport Team Maps - 002.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Écarts – Profils élevés et chef d'équipe",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Team Maps - 003.jpg",
+          "viewerImage": "Rapport Team Maps - 003.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Écarts – Profils faibles et chef d'équipe",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Team Maps - 004.jpg",
+          "viewerImage": "Rapport Team Maps - 004.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Tous les profils",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Team Maps - 005.jpg",
+          "viewerImage": "Rapport Team Maps - 005.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Carte de l'équipe",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Team Maps - 006.jpg",
+          "viewerImage": "Rapport Team Maps - 006.jpg"
+        }
+      ]
+    },
+
+    "Benchmarking": {
+      "id": 1,
+      "name": "Benchmarking",
+      "path": "benchmarking",
+      "sampleLink": "https://www.google.com",
+      "imapLink": "https://www.google.com",
+      "benchmarkLink": "https://www.google.com",
+      "pages": [
+        {
+          "id": 1,
+          "name": "Carte Benchmark",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Benchmarking - 001.jpg",
+          "viewerImage": "Rapport Benchmarking - 001.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Cartes candidat avec Benchmark",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Benchmarking - 002.jpg",
+          "viewerImage": "Rapport Benchmarking - 002.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Carte Benchmark vs. Profil",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Benchmarking - 003.jpg",
+          "viewerImage": "Rapport Benchmarking - 003.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Tableau Benchmark vs. Profil",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Benchmarking - 004.jpg",
+          "viewerImage": "Rapport Benchmarking - 004.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Benchmark Aptitude au travail",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Benchmarking - 005.jpg",
+          "viewerImage": "Rapport Benchmarking - 005.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Analyse du développement de carrière",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Benchmarking - 006.jpg",
+          "viewerImage": "Rapport Benchmarking - 006.jpg"
+        }
+      ]
+    },
+    "Career Explorer": {
+      "id": 1,
+      "name": "Career Explorer",
+      "path": "career-explorer",
+      "sampleLink": "https://www.google.com",
+      "imapLink": "https://www.google.com",
+      "benchmarkLink": "https://www.google.com",
+      "pages": [
+        {
+          "id": 1,
+          "name": "Résumé du contenu",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Career Explorer - 001.jpg",
+          "viewerImage": "Rapport Career Explorer - 001.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Résumé des points clés",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Career Explorer - 002.jpg",
+          "viewerImage": "Rapport Career Explorer - 002.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Les 4 dimensions de PRISM",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Career Explorer - 003.jpg",
+          "viewerImage": "Rapport Career Explorer - 003.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Les 4 dimensions de PRISM suite",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Career Explorer - 004.jpg",
+          "viewerImage": "Rapport Career Explorer - 004.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Carte 4D",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Career Explorer - 005.jpg",
+          "viewerImage": "Rapport Career Explorer - 005.jpg"
+        },
+        {
+          "id": 6,
+          "name": "8 dimensions PRISM",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Career Explorer - 006.jpg",
+          "viewerImage": "Rapport Career Explorer - 006.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Carte 8D",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Career Explorer - 007.jpg",
+          "viewerImage": "Rapport Career Explorer - 007.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Analyse des préférences comportementales",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Career Explorer - 008.jpg",
+          "viewerImage": "Rapport Career Explorer - 008.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Points clés des dimensions",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Career Explorer - 009.jpg",
+          "viewerImage": "Rapport Career Explorer - 009.jpg"
+        },
+        {
+          "id": 10,
+          "name": "Aptitudes au travail",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Career Explorer - 010.jpg",
+          "viewerImage": "Rapport Career Explorer - 010.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Préférences en matière d'environnement de travail",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Career Explorer - 011.jpg",
+          "viewerImage": "Rapport Career Explorer - 011.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Préférences en matière d'activités professionnelles",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Career Explorer - 012.jpg",
+          "viewerImage": "Rapport Career Explorer - 012.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Exploration de métiers",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Career Explorer - 013.jpg",
+          "viewerImage": "Rapport Career Explorer - 013.jpg"
+        },
+        {
+          "id": 14,
+          "name": "Correspondances de métiers par comportement",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Career Explorer - 014.jpg",
+          "viewerImage": "Rapport Career Explorer - 014.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Correspondances métiers par aptitudes au travail",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Career Explorer - 015.jpg",
+          "viewerImage": "Rapport Career Explorer - 015.jpg"
+        },
+        {
+          "id": 16,
+          "name": "Exploration des spécialités/diplômes universitaires",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Career Explorer - 016.jpg",
+          "viewerImage": "Rapport Career Explorer - 016.jpg"
+        },
+        {
+          "id": 17,
+          "name": "Bibliothèque de ressources",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport Career Explorer - 017.jpg",
+          "viewerImage": "Rapport Career Explorer - 017.jpg"
+        }
+      ]
+    },
+    "4D": {
+      "id": 1,
+      "name": "4D",
+      "path": "4D",
+      "sampleLink": "https://www.google.com",
+      "imapLink": "https://www.google.com",
+      "benchmarkLink": "https://www.google.com",
+      "pages": [
+        {
+          "id": 1,
+          "name": "Carte à 4 dimensions",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport 4D - 001.jpg",
+          "viewerImage": "Rapport 4D - 001.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Manuel 4D",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport 4D - 002.jpg",
+          "viewerImage": "Rapport 4D - 002.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Rapport générique",
+          "flags": [],
+          "status": "included",
+          "image": "Rapport 4D - 003.jpg",
+          "viewerImage": "Rapport 4D - 003.jpg"
         }
       ]
     }

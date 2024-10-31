@@ -5,14 +5,14 @@ import { IoCheckmarkCircle } from "react-icons/io5";
 const KeysLegend = () => {
   return (
     <div className="flex flex-row items-start justify-start w-full mt-5">
-      <p className="text-xs">KEY: </p>
-      <IoCheckmarkCircle className="size-4 mx-1" />
+      <p className="text-sm">Clé: </p>
+      <IoCheckmarkCircle className="size-5 mx-1" />
 
-      <p className="text-xs">Inclus</p>
-      <HiPlusCircle className="size-4 mx-1" />
-      <p className="text-xs">Optionel</p>
-      <HiXCircle className="size-4 mx-1" />
-      <p className="text-xs">Non Inclus</p>
+      <p className="text-sm">Inclus</p>
+      <HiPlusCircle className="size-5 mx-1" />
+      <p className="text-sm">Optionel</p>
+      <HiXCircle className="size-5 mx-1" />
+      <p className="text-sm">Non Inclus</p>
     </div>
   );
 };

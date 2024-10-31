@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { usePathname } from "next/navigation";
 import React, { useState, useRef } from "react";
 import { HiOutlineArrowsExpand, HiX } from "react-icons/hi";
 
@@ -132,6 +133,7 @@ const Viewer: React.FC<{
   selectedPage: number;
 }> = ({ data, selectedPage }) => {
   const [isModalOpen, setModalOpen] = useState(false);
+  const path = usePathname().split("/")[1];
 
   // Function to open the modal
   const openModal = () => {
@@ -147,10 +149,10 @@ const Viewer: React.FC<{
   const currentPage = data?.pages[selectedPage - 1];
   console.log("currentPage", currentPage);
   return (
-    <div className="flex flex-col items-center justify-center w-2/3 h-full">
-      <div className="relative w-[770px] h-[580px] overflow-hidden  rounded-none">
+    <div className="flex flex-col items-center  justify-center w-3/4 h-full">
+      <div className="relative w-[870px] h-[580px] overflow-hidden  rounded-none">
         {/* Title overlay */}
-        <div className="absolute top-0 left-1/2 transform -translate-x-1/2 rounded-b-[6px] bg-[#052c52] text-white py-2 px-5 z-10 text-base font-semibold">
+        <div className="absolute top-0 left-1/2 transform -translate-x-1/2 py-3 px-8 rounded-b-[6px] bg-[#052c52] text-white   z-10 text-base font-semibold">
           {currentPage.name}
           <p className="text-center text-xs">
             {currentPage.flags.length > 0 &&
@@ -179,13 +181,13 @@ const Viewer: React.FC<{
           </p>
         </div>
         {/* Clickable Image */}
-        <div onClick={openModal} className="cursor-pointer">
+        <div onClick={openModal} className="cursor-pointer w-full">
           <Image
-            src={`/assets/foundation/${currentPage.image}`}
+            src={`/assets/${path}/${currentPage.image}`}
             alt="viewer"
             layout="responsive"
             objectFit="cover"
-            width={770}
+            width={870}
             height={580}
             objectPosition="top"
           />
@@ -196,7 +198,7 @@ const Viewer: React.FC<{
       <Modal
         isOpen={isModalOpen}
         onClose={closeModal}
-        imageSrc={`/assets/foundation/${currentPage.image}`} // Full-size image source
+        imageSrc={`/assets/${path}/${currentPage.image}`} // Full-size image source
       />
     </div>
   );

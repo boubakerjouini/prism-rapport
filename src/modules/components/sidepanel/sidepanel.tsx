@@ -13,17 +13,17 @@ const SidePanel = ({
   setSelected: any;
 }) => {
   return (
-    <div className="flex flex-col items-start justify-start  w-1/3 h-full ">
+    <div className="flex flex-col items-start justify-start  w-full  text-nowrap h-full ">
       <div className="flex flex-col items-start justify-start w-full gap-1 ">
         {data?.pages?.map((item: any) => {
           return (
             <div
               key={item.id}
-              className={`flex flex-row items-center justify-start w-full gap-4  cursor-pointer hover:bg-[#e2f5fc] transition-all duration-300 ease-in-out ${
-                selected === item.id ? "bg-[#d3dfe9]" : ""
+              className={`flex flex-row items-center justify-start w-full gap-4  cursor-pointer hover:font-medium ${
+                selected === item.id ? "font-semibold" : ""
               }`}
               onClick={() => setSelected(item.id)}>
-              <div className="bg-[#e2f5fc] w-fit h-fit text-[#052c52] p-[1px] ">
+              <div className=" w-fit h-fit text-[#052c52] p-[1px] ">
                 <MarkedIcon status={item.status} />
               </div>
               <div className="flex flex-row w-full">
