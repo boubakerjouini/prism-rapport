@@ -10,7 +10,7 @@ const Cto = ({ data }: { data: any }) => {
           href={data.imapLink}
           target="_blank"
           rel="noreferrer"
-          className="flex flex-row items-center justify-center gap-1 font-semibold text-sm w-fit bg-[#901b79] text-white px-3 py-2 rounded-lg text-left  cursor-pointer hover:bg-[#052c52]  transition-all duration-300 ease-in-out">
+          className="flex flex-row items-center justify-center gap-1 font-semibold text-sm w-fit bg-[#901b79] text-white px-3 py-2 rounded-lg text-left  cursor-pointer border-2 border-[#901b79] hover:text-[#901b79]  hover:bg-[#fcfcfc]  transition-all duration-300 ease-in-out">
           <ImMobile2 className="text-base" />
 
           <div className="flex flex-row gap-1">

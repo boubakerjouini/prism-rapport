@@ -17,7 +17,7 @@ const Rapports = () => {
   return (
     <div className=" px-[140px]  flex flex-col  items-center justify-start w-full py-4">
       <div className="flex flex-col max-w-[1300px] justify-start items-center w-fit mt-4 ">
-        <h1 className="text-[#052c52] text-[42px] font-semibold  rounded-none text-left w-full  ">
+        <h1 className="text-[#052c52] text-[42px] ml-2 font-semibold  rounded-none text-left w-full  ">
           <i>PRISM</i> {report?.name}
         </h1>
         <div className="flex flex-row justify-between   items-start mt-20 gap-10  w-full">
