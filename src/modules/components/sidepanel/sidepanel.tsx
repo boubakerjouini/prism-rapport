@@ -14,7 +14,7 @@ const SidePanel = ({
 }) => {
   return (
     <div className="flex flex-col items-start justify-start  w-full   text-nowrap h-full ">
-      <div className="flex flex-col items-start  justify-start w-full gap-1 ">
+      <div className="flex flex-col items-start  text-[#052c52] justify-start w-full gap-1 ">
         {data?.pages?.map((item: any) => {
           return (
             <div

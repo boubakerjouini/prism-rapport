@@ -8,6 +8,7 @@ import Cto from "../components/calltoaction/cto";
 import TextView from "../components/textViewer/textview";
 import { usePathname } from "next/navigation";
 import Image from "next/image";
+import { ImMobile2 } from "react-icons/im";
 
 const Rapports = () => {
   const { report, forward, backward, selectedPage, setSelectedPage } =
@@ -62,8 +63,8 @@ const Rapports = () => {
               <i>PRISM</i> iMap
             </h1>
 
-            <div className="flex flex-row justify-between   items-start mt-20 gap-10  w-full">
-              <div className="flex flex-col text-[15px] items-start gap-5  justify-start w-1/2 h-full ">
+            <div className="flex flex-row justify-between  text-[#052c52]   items-start mt-20 gap-5   w-full">
+              <div className="flex flex-col text-[15px] items-start gap-5 justify-start w-1/2 h-full ">
                 <p className="font-bold text-[#052c52] ">
                   <span className="font-bold">
                     <span className="italic">PRISM </span> iMAP{" "}
@@ -85,24 +86,42 @@ const Rapports = () => {
                   </span>{" "}
                   permet aux candidats d'explorer de manière interactive leurs
                   préférences comportementales afin de se comprendre eux-mêmes,
-                  de comprendre les autres et d'adapter leur comportement pour
-                  un meilleur impact.
+                  de comprendre les autres
+                  <br />
+                  et d'adapter leur comportement pour un meilleur impact.
                 </p>
                 <p>
-                  <span className="font-bold text-[#052c52]">
-                    <span className="italic">PRISM </span> iMAP{" "}
+                  <span className="font-bold  text-[#052c52]">
+                    <span className="italic ">PRISM </span> iMAP{" "}
                   </span>{" "}
                   est disponible pour les rapports PRISM Professional, Personal
+                  <br />
                   et Foundation.
                 </p>
               </div>
-              <Image
-                src="/PRISM-iMap-on-devices.jpg"
-                alt="imap"
-                width={500}
-                height={500}
-                className="rounded-lg"
-              />
+              <div className="flex flex-col items-center justify-center -ml-10 w-1/2 h-full ">
+                <Image
+                  src="/PRISM-iMap-on-devices.png"
+                  alt="imap"
+                  width={560}
+                  height={500}
+                  className="rounded-lg justify-start -mt-5"
+                />
+                <a
+                  href="https://profile.prismbrainmapping.com/candidate/index/84E315CE5BC0E580CC53182224E54EBD9AD9F8E89F5ACDC2"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="flex flex-row items-center justify-center gap-1 font-semibold text-sm w-fit bg-[#901b79] text-white px-3 py-2 rounded-lg text-left  cursor-pointer border-2 border-[#901b79] hover:text-[#901b79]  hover:bg-[#fcfcfc]  transition-all duration-300 ease-in-out">
+                  <ImMobile2 className="text-base" />
+
+                  <div className="flex flex-row gap-1">
+                    <b className="font-black cursor-pointer">
+                      <i>PRISM</i>
+                    </b>
+                    <span className="font-semibold cursor-pointer">iMap</span>
+                  </div>
+                </a>
+              </div>
             </div>
           </>
         )}

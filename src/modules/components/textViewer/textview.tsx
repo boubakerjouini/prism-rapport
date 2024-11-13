@@ -37,7 +37,7 @@ const TextView = ({ page }: { page: string }) => {
         </p>
         <div class="w-full flex flex-row items-center justify-center gap-5 mt-[35px]">
      
-          <button class="flex min-w-52 items-center justify-center font-semibold text-lg w-fit gap-2 px-6 py-3 rounded-lg text-left cursor-pointer transition-all duration-300 ease-in-out bg-[#009DE0] text-white border border-[#009DE0] hover:bg-white hover:text-[#009DE0]">
+          <button class="flex min-w-52 h-12  items-center justify-center font-semibold text-lg w-fit gap-2 px-6 py-3 rounded-lg text-left cursor-pointer transition-all duration-300 ease-in-out bg-[#009DE0] text-white border border-[#009DE0] hover:bg-white hover:text-[#009DE0]">
             <p>Consulter un praticien</p>
           </button>
         </div>
@@ -59,7 +59,7 @@ référence. Associée aux profils d'autres personnes, cette version peut être 
         </p>
         <div class="w-full flex flex-row items-center justify-center gap-5 mt-[35px]">
      
-          <button class="flex min-w-52 items-center justify-center font-semibold text-lg w-fit gap-2 px-6 py-3 rounded-lg text-left cursor-pointer transition-all duration-300 ease-in-out bg-[#009DE0] text-white border border-[#009DE0] hover:bg-white hover:text-[#009DE0]">
+          <button class="flex min-w-52 h-12  items-center justify-center font-semibold text-lg w-fit gap-2 px-6 py-3 rounded-lg text-left cursor-pointer transition-all duration-300 ease-in-out bg-[#009DE0] text-white border border-[#009DE0] hover:bg-white hover:text-[#009DE0]">
             <p>Consulter un praticien</p>
           </button>
         </div>
@@ -82,7 +82,7 @@ les compétences internes ou génériques.
         </p>
         <div class="w-full flex flex-row items-center justify-center gap-5 mt-[35px]">
      
-          <button class="flex min-w-52 items-center justify-center font-semibold text-lg w-fit gap-2 px-6 py-3 rounded-lg text-left cursor-pointer transition-all duration-300 ease-in-out bg-[#009DE0] text-white border border-[#009DE0] hover:bg-white hover:text-[#009DE0]">
+          <button class="flex min-w-52 h-12  items-center justify-center font-semibold text-lg w-fit gap-2 px-6 py-3 rounded-lg text-left cursor-pointer transition-all duration-300 ease-in-out bg-[#009DE0] text-white border border-[#009DE0] hover:bg-white hover:text-[#009DE0]">
             <p>Consulter un praticien</p>
           </button>
         </div>
@@ -111,8 +111,8 @@ internes.
         </p>
         <div class="w-full flex flex-row items-center justify-center gap-5 mt-[35px]">
      
-          <button class="flex min-w-52 items-center justify-center font-semibold text-lg w-fit gap-2 px-6 py-3 rounded-lg text-left cursor-pointer transition-all duration-300 ease-in-out bg-[#009DE0] text-white border border-[#009DE0] hover:bg-white hover:text-[#009DE0]">
-            <p>Réservez une démo</p>
+          <button class="flex min-w-52 h-12  items-center justify-center font-semibold text-lg w-fit gap-2 px-6 py-3 rounded-lg text-left cursor-pointer transition-all duration-300 ease-in-out bg-[#009DE0] text-white border border-[#009DE0] hover:bg-white hover:text-[#009DE0]">
+            <p>Réserver une démo</p>
           </button>
         </div>
       </div>
@@ -138,8 +138,8 @@ performances d'une équipe et à identifier les domaines à améliorer.
         </p>
         <div class="w-full flex flex-row items-center justify-center gap-5 mt-[35px]">
      
-          <button class="flex min-w-52 items-center justify-center font-semibold text-lg w-fit gap-2 px-6 py-3 rounded-lg text-left cursor-pointer transition-all duration-300 ease-in-out bg-[#009DE0] text-white border border-[#009DE0] hover:bg-white hover:text-[#009DE0]">
-            <p>Réservez une démo</p>
+          <button class="flex min-w-52 h-12  items-center justify-center font-semibold text-lg w-fit gap-2 px-6 py-3 rounded-lg text-left cursor-pointer transition-all duration-300 ease-in-out bg-[#009DE0] text-white border border-[#009DE0] hover:bg-white hover:text-[#009DE0]">
+            <p>Réserver une démo</p>
           </button>
         </div>
       </div>
@@ -169,8 +169,8 @@ performances d'une équipe et à identifier les domaines à améliorer.
         </p>
         <div class="w-full flex flex-row items-center justify-center gap-5 mt-[35px]">
      
-          <button class="flex min-w-52 items-center justify-center font-semibold text-lg w-fit gap-2 px-6 py-3 rounded-lg text-left cursor-pointer transition-all duration-300 ease-in-out bg-[#009DE0] text-white border border-[#009DE0] hover:bg-white hover:text-[#009DE0]">
-            <p>Réservez une démo</p>
+          <button class="flex min-w-52 h-12  items-center justify-center font-semibold text-lg w-fit gap-2 px-6 py-3 rounded-lg text-left cursor-pointer transition-all duration-300 ease-in-out bg-[#009DE0] text-white border border-[#009DE0] hover:bg-white hover:text-[#009DE0]">
+            <p>Réserver une démo</p>
           </button>
         </div>
       </div>
@@ -199,8 +199,8 @@ tâches d'une personne.
         </p>
         <div class="w-full flex flex-row items-center justify-center gap-5 mt-[35px]">
      
-          <button class="flex min-w-52 items-center justify-center font-semibold text-lg w-fit gap-2 px-6 py-3 rounded-lg text-left cursor-pointer transition-all duration-300 ease-in-out bg-[#009DE0] text-white border border-[#009DE0] hover:bg-white hover:text-[#009DE0]">
-            <p>Réservez une démo</p>
+          <button class="flex min-w-52 h-12  items-center justify-center font-semibold text-lg w-fit gap-2 px-6 py-3 rounded-lg text-left cursor-pointer transition-all duration-300 ease-in-out bg-[#009DE0] text-white border border-[#009DE0] hover:bg-white hover:text-[#009DE0]">
+            <p>Réserver une démo</p>
           </button>
         </div>
       </div>
@@ -214,8 +214,8 @@ matière de communication, les relations interpersonnelles et la prise de consci
 dans les écoles et les collèges.
         <div class="w-full flex flex-row items-center justify-center gap-5 mt-[35px]">
      
-          <button class="flex min-w-52 items-center justify-center font-semibold text-lg w-fit gap-2 px-6 py-3 rounded-lg text-left cursor-pointer transition-all duration-300 ease-in-out bg-[#009DE0] text-white border border-[#009DE0] hover:bg-white hover:text-[#009DE0]">
-            <p>Réservez une démo</p>
+          <button class="flex min-w-52 h-12  items-center justify-center font-semibold text-lg w-fit gap-2 px-6 py-3 rounded-lg text-left cursor-pointer transition-all duration-300 ease-in-out bg-[#009DE0] text-white border border-[#009DE0] hover:bg-white hover:text-[#009DE0]">
+            <p>Réserver une démo</p>
           </button>
         </div>
       </div>
@@ -234,8 +234,8 @@ CV, etc. Il compare également les préférences professionnelles à environ 500
 marketing personnel plus efficace et plus professionnel.
         <div class="w-full flex flex-row items-center justify-center gap-5 mt-[35px]">
      
-          <button class="flex min-w-52 items-center justify-center font-semibold text-lg w-fit gap-2 px-6 py-3 rounded-lg text-left cursor-pointer transition-all duration-300 ease-in-out bg-[#009DE0] text-white border border-[#009DE0] hover:bg-white hover:text-[#009DE0]">
-            <p>Réservez une démo</p>
+          <button class="flex min-w-52 h-12  items-center justify-center font-semibold text-lg w-fit gap-2 px-6 py-3 rounded-lg text-left cursor-pointer transition-all duration-300 ease-in-out bg-[#009DE0] text-white border border-[#009DE0] hover:bg-white hover:text-[#009DE0]">
+            <p>Réserver une démo</p>
           </button>
         </div>
       </div>

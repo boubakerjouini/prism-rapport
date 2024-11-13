@@ -4,7 +4,7 @@ import { IoMdCloudDownload } from "react-icons/io";
 
 const Cto = ({ data }: { data: any }) => {
   return (
-    <div className="flex flex-row items-center justify-center gap-4 w-full mt-[35px] ">
+    <div className="flex flex-row items-center justify-center  gap-4 w-full mt-[35px] ">
       {data?.imapLink && (
         <a
           href={data.imapLink}
