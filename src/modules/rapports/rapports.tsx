@@ -17,15 +17,15 @@ const Rapports = () => {
   const path = usePathname().split("/")[1];
 
   return (
-    <div className=" px-[140px]  flex flex-col  items-center justify-start w-full py-4">
-      <div className="flex flex-col max-w-[1300px] justify-start items-center w-fit mt-4 ">
+    <div className=" md:px-[140px]  flex flex-col  items-center justify-start w-full overflow-y-auto max-md:h-screen py-4">
+      <div className="flex flex-col md:max-w-[1300px] max-md:w-full justify-start items-center w-fit mt-4 ">
         {path !== "imap" ? (
           <>
-            <h1 className="text-[#052c52] text-[42px] ml-2 font-semibold  rounded-none text-left w-full  ">
-              <i>PRISM</i> {report?.name}
+            <h1 className="text-[#052c52] md:text-[42px] max-md:text-2xl max-md:flex gap-2 justify-center items-center max-md:mb-10 ml-2 font-semibold  rounded-none text-left w-full  ">
+              <i>PRISM </i> {report?.name}
             </h1>
 
-            <div className="flex flex-row justify-between   items-start mt-20 gap-10  w-full">
+            <div className="flex md:flex-row flex-col justify-between   items-start md:mt-20 gap-10  w-full">
               <SidePanel
                 data={report}
                 selected={selectedPage}
@@ -34,7 +34,7 @@ const Rapports = () => {
 
               <div className="flex relative flex-col  items-center  justify-center w-full h-full ">
                 <div className="flex flex-row items-center justify-start w-full absolute -top-16 left-0 gap-4">
-                  <div className="flex flex-row items-center justify-center w-full gap-4">
+                  <div className="md:flex flex-row items-center justify-center w-full gap-4  hidden">
                     <div
                       className="flex flex-row items-center justify-center w-fit rounded-full bg-[#052c52] text-white p-1 
             cursor-pointer hover:bg-[#009DE0] transition-all duration-300 ease-in-out"
@@ -49,7 +49,7 @@ const Rapports = () => {
                     </div>
                   </div>
                 </div>
-                <div className="flex flex-col  items-center justify-start w-fit h-full  ">
+                <div className="flex flex-col  items-center justify-start md:w-fit w-full h-full  ">
                   <Viewer data={report} selectedPage={selectedPage} />
                   <Cto data={report} />
                 </div>
@@ -59,12 +59,12 @@ const Rapports = () => {
           </>
         ) : (
           <>
-            <h1 className="text-[#052c52] text-[42px] ml-2 font-semibold  rounded-none text-left w-full  ">
+            <h1 className="text-[#052c52] text-[42px] max-md:text-2xl max-md:flex gap-2 justify-center items-center  ml-2 font-semibold  rounded-none text-left w-full  ">
               <i>PRISM</i> iMap
             </h1>
 
-            <div className="flex flex-row justify-between  text-[#052c52]   items-start mt-20 gap-5   w-full">
-              <div className="flex flex-col text-[15px] items-start gap-5 justify-start w-1/2 h-full ">
+            <div className="flex md:flex-row flex-col justify-between  text-[#052c52]   items-start md:mt-20 mt-4 gap-5 max-md:py-10   w-full">
+              <div className="flex flex-col md:text-[15px] md:items-start gap-5 justify-start md:w-1/2 w-full max-md:px-5  h-full ">
                 <p className="font-bold text-[#052c52] ">
                   <span className="font-bold">
                     <span className="italic">PRISM </span> iMAP{" "}
@@ -99,13 +99,13 @@ const Rapports = () => {
                   et Foundation.
                 </p>
               </div>
-              <div className="flex flex-col items-center justify-center -ml-10 w-1/2 h-full ">
+              <div className="flex flex-col items-center justify-center md:-ml-10 md:w-1/2 max-md:mt-5 h-full ">
                 <Image
                   src="/PRISM-iMap-on-devices.png"
                   alt="imap"
                   width={560}
                   height={500}
-                  className="rounded-lg justify-start -mt-5"
+                  className="rounded-lg justify-start -mt-5 max-md:px-5 max-md:mb-5"
                 />
                 <a
                   href="https://profile.prismbrainmapping.com/candidate/index/84E315CE5BC0E580CC53182224E54EBD9AD9F8E89F5ACDC2"

@@ -13,13 +13,13 @@ const SidePanel = ({
   setSelected: any;
 }) => {
   return (
-    <div className="flex flex-col items-start justify-start  w-full   text-nowrap h-full ">
+    <div className="flex flex-col items-start justify-start  w-full max-md:px-10   md:text-nowrap h-full ">
       <div className="flex flex-col items-start  text-[#052c52] justify-start w-full gap-1 ">
         {data?.pages?.map((item: any) => {
           return (
             <div
               key={item.id}
-              className={`flex flex-row items-center  justify-start w-full gap-4  cursor-pointer hover:font-medium ${
+              className={`flex flex-row max-md:items-center  justify-start w-full gap-4  cursor-pointer hover:font-medium ${
                 selected === item.id ? "font-semibold" : ""
               }`}
               onClick={() => setSelected(item.id)}>
@@ -33,7 +33,7 @@ const SidePanel = ({
                     {item.flags.map((flag: any, index: number) => (
                       <p
                         key={flag.id}
-                        className={`text-xs ${
+                        className={`text-xs md:block hidden ${
                           flag?.status === "destructive"
                             ? "text-red-500"
                             : flag?.status === "constructive"

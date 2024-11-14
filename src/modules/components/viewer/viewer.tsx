@@ -150,7 +150,7 @@ const Viewer: React.FC<{
   console.log("currentPage", currentPage);
   return (
     <div className="flex flex-col items-center  justify-center w-3/4 h-full">
-      <div className="relative w-[870px] h-[580px] overflow-hidden  rounded-none">
+      <div className="relative md:w-[870px] md:h-[580px] w-full h-fit overflow-hidden  rounded-none">
         {/* Title overlay */}
         <div className="absolute top-0 left-1/2 transform -translate-x-1/2 py-3 px-8 rounded-b-[6px] bg-[#052c52] text-white   z-10 text-base font-semibold">
           {currentPage.name}
