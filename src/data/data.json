@@ -6,6 +6,7 @@
       "path": "foundation",
       "sampleLink": "https://www.prismbrainmapping.fr/FR/wp-content/uploads/2024/11/Rapport-PRISM_Foundation_Fr.pdf",
       "imapLink": "https://profile.prismbrainmapping.com/candidate/index/84E315CE5BC0E580CC53182224E54EBD9AD9F8E89F5ACDC2",
+      "benchmarkLink": "https://www.prismbrainmapping.fr/FR/wp-content/uploads/2024/11/Rapport-PRISM-Foundation_Benchmark-FR.pdf",
       "pages": [
         {
           "id": 1,
@@ -26,8 +27,8 @@
             }
           ],
           "status": "included",
-          "image": "Rapport PRISM_Personal_Fr-006-1.jpg",
-          "viewerImage": "Rapport PRISM_Personal_Fr-006-1.jpg"
+          "image": "Rapport PRISM_Foundation_Fr-006-1.jpg",
+          "viewerImage": "Rapport PRISM_Foundation_Fr-006-1.jpg"
         },
         {
           "id": 3,
@@ -96,8 +97,8 @@
           "name": "Introversion/Extraversion",
           "flags": [],
           "status": "included",
-          "image": "Rapport PRISM_Professional_Fr-007.png",
-          "viewerImage": "Rapport PRISM_Professional_Fr-007.png"
+          "image": "Rapport PRISM_Professional_Fr-007.JPG",
+          "viewerImage": "Rapport PRISM_Professional_Fr-007.JPG"
         },
         {
           "id": 7,
@@ -112,24 +113,24 @@
           "name": "Profil narratif - Résumé",
           "flags": [],
           "status": "included",
-          "image": "Rapport PRISM_Professional_Fr-009.jpg",
-          "viewerImage": "Rapport PRISM_Professional_Fr-009.jpg"
+          "image": "Rapport-PRISM-Foundation_Benchmark-FR_page-0008.jpg",
+          "viewerImage": "Rapport-PRISM-Foundation_Benchmark-FR_page-0008.jpg"
         },
         {
           "id": 9,
           "name": "Profil narratif - Complet",
           "flags": [],
           "status": "not included",
-          "image": "Rapport PRISM_Personal_Fr-010-1.jpg",
-          "viewerImage": "Rapport PRISM_Personal_Fr-010-1.jpg"
+          "image": "Rapport PRISM_Professional_Fr-009.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-009.jpg"
         },
         {
           "id": 10,
           "name": "Job Benchmark/Profil candidat",
           "flags": [],
           "status": "included",
-          "image": "Rapport PRISM_Foundation_Fr-011.jpg",
-          "viewerImage": "Rapport PRISM_Foundation_Fr-011.jpg"
+          "image": "Rapport-PRISM-Foundation_Benchmark-FR_page-0013.jpg",
+          "viewerImage": "Rapport-PRISM-Foundation_Benchmark-FR_page-0013.jpg"
         },
         {
           "id": 11,
@@ -311,8 +312,8 @@
           "name": "Introversion/Extraversion",
           "flags": [],
           "status": "included",
-          "image": "Rapport PRISM_Personal_Fr-007.png",
-          "viewerImage": "Rapport PRISM_Personal_Fr-007.png"
+          "image": "Rapport PRISM_Personal_Fr-007.jpg",
+          "viewerImage": "Rapport PRISM_Personal_Fr-007.jpg"
         },
         {
           "id": 7,
@@ -526,8 +527,8 @@
           "name": "Introversion/Extraversion",
           "flags": [],
           "status": "included",
-          "image": "Rapport PRISM_Professional_Fr-006-5.png",
-          "viewerImage": "Rapport PRISM_Professional_Fr-006-5.png"
+          "image": "Rapport PRISM_Professional_Fr-007.jpg",
+          "viewerImage": "Rapport PRISM_Professional_Fr-007.jpg"
         },
         {
           "id": 7,
@@ -657,8 +658,8 @@
           "name": "Ce qu'il mesure",
           "flags": [],
           "status": "included",
-          "image": "Rapport PRISM_Team Performance Diagnostic_Fr-004.jpg",
-          "viewerImage": "Rapport PRISM_Team Performance Diagnostic_Fr-004.jpg"
+          "image": "Rapport PRISM_Team Performance Diagnostic_Fr_page-0004.jpg",
+          "viewerImage": "Rapport PRISM_Team Performance Diagnostic_Fr_page-0004.jpg"
         },
         {
           "id": 2,
@@ -718,7 +719,7 @@
         },
         {
           "id": 9,
-          "name": "Tableau - Auto-perception de l'équip",
+          "name": "Tableau - Auto-perception de l'équipe",
           "flags": [],
           "status": "included",
           "image": "Rapport PRISM_Team Performance Diagnostic_Fr-014.jpg",
@@ -820,8 +821,8 @@
           "name": "Commentaires des observateurs",
           "flags": [],
           "status": "included",
-          "image": "Rapport 360 Feedback - 0010.jpg",
-          "viewerImage": "Rapport 360 Feedback - 0010.jpg"
+          "image": "Rapport 360 Feedback - 010.jpg",
+          "viewerImage": "Rapport 360 Feedback - 010.jpg"
         }
       ]
     },

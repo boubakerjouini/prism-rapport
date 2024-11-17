@@ -147,6 +147,8 @@ const Viewer: React.FC<{
 
   // Get the current page data
   const currentPage = data?.pages[selectedPage - 1];
+  console.log("rapport aaa", currentPage);
+
   console.log("currentPage", currentPage);
   return (
     <div className="flex flex-col items-center  justify-center w-3/4 h-full">
@@ -181,7 +183,13 @@ const Viewer: React.FC<{
           </p>
         </div>
         {/* Clickable Image */}
-        <div onClick={openModal} className="cursor-pointer w-full">
+        <div
+          onClick={() => currentPage?.status !== "not included" && openModal()}
+          className={`cursor-pointer w-full ${
+            currentPage?.status === "not included"
+              ? "filter grayscale opacity-75 contrast-90"
+              : ""
+          }`}>
           <Image
             src={`/assets/${path}/${currentPage.image}`}
             alt="viewer"
