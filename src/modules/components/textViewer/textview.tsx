@@ -195,7 +195,7 @@ tâches d'une personne.
       
         <p class="inline-block mt-4 ">
        Tout outil de profilage, tel que PRISM, ne doit jamais être utilisé pour prendre une décision de recrutement ou de redéploiement sans être étayé par d'autres techniques.
-<span class="font-bold">L’exécution du processus complet de PRISM Benchmarking se fait par l’intermédiera d’un Praticien PRISM certifié.</span>
+<span class="font-bold">L’exécution du processus complet de PRISM Benchmarking se fait par l’intermédiaire d’un Praticien PRISM certifié.</span>
         </p>
         <div class="w-full flex flex-row items-center justify-center gap-5 mt-[35px]">
      

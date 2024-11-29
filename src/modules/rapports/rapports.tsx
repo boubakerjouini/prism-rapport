@@ -78,7 +78,7 @@ const Rapports = () => {
                     <span className="italic">PRISM </span> iMAP{" "}
                   </span>
                   est un moyen efficace pour les praticiens PRISM qui facilite
-                  la le feedback et aide les candidats à mettre PRISM en action.
+                  le feedback et aide les candidats à mettre PRISM en action.
                 </p>
                 <p>
                   <span className="font-bold text-[#052c52]">
